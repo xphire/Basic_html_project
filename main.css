@@ -1,0 +1,15 @@
+html {
+    font-size: 22;
+    
+}
+
+body {
+    border : solid 1px;
+    border-color: black;
+    position: relative;
+}
+
+table, th, td,caption{
+    border: 1px solid;
+}
+
